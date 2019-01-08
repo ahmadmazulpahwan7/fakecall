@@ -1,7 +1,7 @@
 # fakecall
 fake call
 
--------yang harus diinstall---------
+---yang harus diinstall---
 sudo apt-get install php5-curl
 
 sudo service apache2 restart
