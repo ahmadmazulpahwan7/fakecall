@@ -103,7 +103,7 @@ class prankCall{
 		}
 	}
 }
-echo "#################################\n# Copyright : @xptra | SGB-Team #\n#################################\n";
+echo "#########\n# masukkaan nomor target lalu y atau n dan masukkan jumlah fake call #\n##############\n";
 echo "?Number			";
 $no = get();
 $n = new prankCall($no);
